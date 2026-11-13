@@ -1,1 +1,8 @@
+{
+  "name": "Sekka",
+  "symbol": "SKK",
+  "description": "The official utility token of the Sekka ecosystem.",
+  "image": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/sekka-token/main/asset/skk-logo.png",
+  "decimals": 9
+}
 
